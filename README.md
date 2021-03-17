@@ -12,12 +12,6 @@
 **My Hobbies ✍:**
   - programming, watching anime (not a weeb though 😂), learning physics, reading self-help books and .. procrastinating
 
-### My Instagram Handle:
-
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
 <details>
   <summary> Profile Stats </summary>
   <br/>
