@@ -1,5 +1,5 @@
 ### Hii folks, Emperor here 🤟
-*A class 10^th Student who loves programming.*
+*A class 10th Student who loves programming.*
 
 **Languages:**
   - I use: Python and sometimes HTML & CSS
@@ -15,7 +15,7 @@
 <details>
   <summary> Profile Stats </summary>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/?username=E-M-P-E-R-O-R&layout=compact&show_icons=true&include_all_commits=true&hide_border=false&theme=tokyonight"/>  
+  <img src="https://github-readme-stats.vercel.app/api/?username=E-M-P-E-R-O-R&layout=compact&show_icons=true&include_all_commits=true&hide_border=false&theme=dracula"/>  
 </details>
 
 
