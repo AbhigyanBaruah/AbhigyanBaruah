@@ -14,7 +14,7 @@
 
 ### My Instagram Handle:
 [<img align="left" alt="abhigyan_2408 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+<br/>
 <details>
   <summary> Profile Stats </summary>
   <br/>
