@@ -12,6 +12,8 @@
 **My Hobbies ✍:**
   - programming, watching anime (not a weeb though 😂), learning physics, reading   self-help books and .. procrastinating
 
+### My Instagram Handle - [<img align="left" alt="abhigyan_2408 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 <details>
   <summary> Profile Stats </summary>
   <br/>
