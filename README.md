@@ -1,4 +1,4 @@
-<h1 align="center">Hi folks👋, myself Emperor</h1>
+<h1 align="center">Hi folks👋, Emperor here</h1>
 <h3 align="center">A class 10th student who loves programming..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=e-m-p-e-r-o-r&label=Profile%20views&color=0e75b6&style=flat" alt="e-m-p-e-r-o-r" /> </p>
