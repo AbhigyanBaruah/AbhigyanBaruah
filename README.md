@@ -25,7 +25,7 @@
 <a href="https://twitter.com/abhigyanbaruah9" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="abhigyanbaruah9" height="30" width="40" /></a>
 <a href="https://instagram.com/abhigyan_2408" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="abhigyan_2408" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/abhigyan_1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="abhigyan_1" height="30" width="40" /></a>
-<a href="https://discord.gg/tZambnKR" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="#3124" height="30" width="40" /></a>
+<a href="https://discord.gg/3124" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="#3124" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Softwares I generally use:</h3>
