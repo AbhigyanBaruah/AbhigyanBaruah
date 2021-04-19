@@ -18,7 +18,6 @@
 
 - 📫 How to reach me **abhib2408@gmail.com**
 
-- ⚡ Fun fact **I am the servant in my house 😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
