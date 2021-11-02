@@ -33,16 +33,11 @@
 
 ## GitHub Stats
 
-<a href="https://github.com/AbhigyanBaruah/github-readme-stats"><img alt="Abhigyans's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AbhigyanBaruah&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /> </a>
+<a href="https://github-readme-stats.vercel.app/api?username=AbhigyanBaruah&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"><img alt="Abhigyans's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AbhigyanBaruah&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /> </a>
 
-## Most Used Langs
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhigyanBaruah&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"><img alt="Abhigyan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhigyanBaruah&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/> </a>
 
-<a href="https://github.com/AbhigyanBaruah/github-readme-stats"><img alt="Abhigyan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhigyanBaruah&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/> </a>
-
-## Contribution Graph
-
-<a href="https://github.com/AbhigyanBaruah/github-readme-activity-graph"><img alt="Abhigyan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AbhigyanBaruah&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /> </a>
-
+<a href="https://activity-graph.herokuapp.com/graph?username=AbhigyanBaruah&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"><img alt="Abhigyan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AbhigyanBaruah&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /> </a>
 
 ## <3 Views and Followers
 <a href="https://github.com/AbhigyanBaruah/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=AbhigyanBaruah"> </a>
