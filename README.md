@@ -8,14 +8,9 @@
 
 - I am a 19 yo B.Tech student and a passionate Python developer.
 
-- I love writing stories, playing football, listening to music and watching anime.
-
 - I’m currently learning **Web Development**
 
-- I’m looking to collaborate on **OpenSource Projects**
-
-- How to reach me **abhib2408@gmail.com**
-
+- Looking to collaborate on **OpenSource Projects**
 
 ## Languages and Tools
 
