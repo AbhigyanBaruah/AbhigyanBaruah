@@ -6,11 +6,11 @@
 
 ## About Me
 
-- I am a 19 yo B.Tech student and a passionate Python developer.
+- 👨‍💻 I’m a 19-year-old B.Tech student with a passion for Python development.  
+- 🌱 Currently diving into **Web Development** to expand my skill set.  
+- 🤝 Excited to collaborate on impactful **Open Source Projects** and contribute to the tech community.  
 
-- I’m currently learning **Web Development**
-
-- Looking to collaborate on **OpenSource Projects**
+Let’s connect and build something amazing together! 🚀
 
 ## Languages and Tools
 
